@@ -5,4 +5,4 @@
 </p><br>
 <p>Leetcode is a great website for helping people sharpening their programming skills and learning algorithms / data structures in a comfortable way. Until now, I have finished all 153 leetcode problems for at least one time. The other solutions will be occasionally updated. Advices and discussions on my solutions are appreciated.
 </p><br>
-<p align="right">Wenxiao Yu @ <span style="color: orange">University of Texas at Austin</span></p>
+<p align="right">Wenxiao Yu @ <span style="color: orange;">University of Texas at Austin</span></p>
